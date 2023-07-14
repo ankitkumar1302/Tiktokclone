@@ -6,11 +6,11 @@
 
 <h2>Key Features</h2>
 
-<ul>
-  <li>Record short videos up to 60 seconds</li>
-  <li>View feed of videos posted by other users</li>
-  <li>Like and comment on videos</li> 
-  <li>User profiles and followers</li>
+<p>The app comes with pre-loaded sample videos that are displayed in the video feed.</p>
+
+<p>This allows testing the video feed UI and features without needing to record videos first.</p>
+
+<p>Recorded videos can also be uploaded to the feed.</p>
   <li>Save videos and data locally using SQLite</li>
 </ul>
 
